@@ -6,6 +6,6 @@
 To run spider and export data to a JSON file:
 $ scrapy crawl cars_spider -o cars_s.json
 
-![Example](car-listings-scraper/blob/master/autotrade/autotrade/images/excel_example_capture.JPG)
-Format: ![Alt Text](url)
+![Example](/autotrade/autotrade/images/excel_example_capture.JPG)
+
 
