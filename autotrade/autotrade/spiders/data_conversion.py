@@ -125,7 +125,6 @@ def data_to_excel(cars_dict):
 
 
 if __name__ == '__main__':
-    # json_filepath = r'C:\Users\Hagar\Documents\CS\Projects\autotrader\autotrade\autotrade\spiders\cars_s.json'
     # dirname = os.path.dirname(__file__)
     # json_filepath = os.path.join(dirname,'/cars_s.json')
     json_filepath = 'cars_s.json'
